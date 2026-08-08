@@ -1,1 +1,0 @@
-global.fric = 100
