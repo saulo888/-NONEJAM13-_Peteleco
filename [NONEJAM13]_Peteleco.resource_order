@@ -4,6 +4,7 @@
     {"name":"Rooms","order":1,"path":"folders/Rooms.yy",},
     {"name":"Scripts","order":4,"path":"folders/Scripts.yy",},
     {"name":"Sprites","order":3,"path":"folders/Sprites.yy",},
+    {"name":"Escrita","order":8,"path":"folders/Sprites/Escrita.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"obj_Area","order":6,"path":"objects/obj_Area/obj_Area.yy",},
@@ -17,6 +18,7 @@
     {"name":"rm_Fase3","order":2,"path":"rooms/rm_Fase3/rm_Fase3.yy",},
     {"name":"rm_Fase4","order":3,"path":"rooms/rm_Fase4/rm_Fase4.yy",},
     {"name":"rm_Fase5","order":4,"path":"rooms/rm_Fase5/rm_Fase5.yy",},
+    {"name":"rm_Menu","order":6,"path":"rooms/rm_Menu/rm_Menu.yy",},
     {"name":"spr_Area","order":5,"path":"sprites/spr_Area/spr_Area.yy",},
     {"name":"spr_AreaRuim","order":6,"path":"sprites/spr_AreaRuim/spr_AreaRuim.yy",},
     {"name":"spr_Chao","order":1,"path":"sprites/spr_Chao/spr_Chao.yy",},
