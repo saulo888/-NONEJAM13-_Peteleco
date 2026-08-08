@@ -35,6 +35,7 @@
     {"name":"spr_Tutorial0","order":5,"path":"sprites/spr_Tutorial0/spr_Tutorial0.yy",},
     {"name":"spr_Tutorial1_1","order":3,"path":"sprites/spr_Tutorial1_1/spr_Tutorial1_1.yy",},
     {"name":"spr_Tutorial1","order":2,"path":"sprites/spr_Tutorial1/spr_Tutorial1.yy",},
+    {"name":"spr_Tutorial2_1","order":8,"path":"sprites/spr_Tutorial2_1/spr_Tutorial2_1.yy",},
     {"name":"spr_Tutorial2","order":4,"path":"sprites/spr_Tutorial2/spr_Tutorial2.yy",},
     {"name":"spr_Tutorial3","order":6,"path":"sprites/spr_Tutorial3/spr_Tutorial3.yy",},
   ],
