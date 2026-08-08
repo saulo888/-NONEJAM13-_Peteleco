@@ -29,5 +29,6 @@
     {"name":"spr_Peca_M","order":2,"path":"sprites/spr_Peca_M/spr_Peca_M.yy",},
     {"name":"spr_Tutorial1_1","order":3,"path":"sprites/spr_Tutorial1_1/spr_Tutorial1_1.yy",},
     {"name":"spr_Tutorial1","order":2,"path":"sprites/spr_Tutorial1/spr_Tutorial1.yy",},
+    {"name":"spr_Tutorial2","order":4,"path":"sprites/spr_Tutorial2/spr_Tutorial2.yy",},
   ],
 }
