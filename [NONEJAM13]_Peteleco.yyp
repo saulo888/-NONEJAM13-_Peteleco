@@ -54,6 +54,7 @@
     {"id":{"name":"spr_BotaoJogar","path":"sprites/spr_BotaoJogar/spr_BotaoJogar.yy",},},
     {"id":{"name":"spr_Chao","path":"sprites/spr_Chao/spr_Chao.yy",},},
     {"id":{"name":"spr_FIM","path":"sprites/spr_FIM/spr_FIM.yy",},},
+    {"id":{"name":"spr_Mao","path":"sprites/spr_Mao/spr_Mao.yy",},},
     {"id":{"name":"spr_Peca_G","path":"sprites/spr_Peca_G/spr_Peca_G.yy",},},
     {"id":{"name":"spr_Peca_GG","path":"sprites/spr_Peca_GG/spr_Peca_GG.yy",},},
     {"id":{"name":"spr_Peca_M","path":"sprites/spr_Peca_M/spr_Peca_M.yy",},},
@@ -69,8 +70,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_Menu","path":"rooms/rm_Menu/rm_Menu.yy",},},
     {"roomId":{"name":"rm_Fase1","path":"rooms/rm_Fase1/rm_Fase1.yy",},},
+    {"roomId":{"name":"rm_Menu","path":"rooms/rm_Menu/rm_Menu.yy",},},
     {"roomId":{"name":"rm_Fase2","path":"rooms/rm_Fase2/rm_Fase2.yy",},},
     {"roomId":{"name":"rm_Fase3","path":"rooms/rm_Fase3/rm_Fase3.yy",},},
     {"roomId":{"name":"rm_Fase4","path":"rooms/rm_Fase4/rm_Fase4.yy",},},
